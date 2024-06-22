@@ -1,0 +1,3 @@
+reaction_DB.mlx是获取kegg生化反应数据库的代码，利用KEGG的API
+
+untitled.mlx是构建模型的全过程文件

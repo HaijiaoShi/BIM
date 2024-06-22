@@ -1,0 +1,3 @@
+conda activate clean                                                               #Activate the created virtual environment
+cd C:\Users\SHJ\Documents\CLEAN\app                               #Jump to the clean position
+python CLEAN_infer_fasta.py --fasta_data genome                           #Run function genome for the genome file in fasta format to predict
